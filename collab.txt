@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 hi hi collaboaror Hello owner
+=======
+hi collaborator Hello owner
+>>>>>>> 3a0b46f855475af7e1e7814cdd6acced53875f5a
